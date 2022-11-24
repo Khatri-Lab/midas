@@ -1,4 +1,4 @@
-# Perturbation-based interpretation on tabular data
+# MIDAS- Model-independent Inference of Directed AssociationS
 Code for method described in  Ganesan *et al.*, [bioRxiv 2022](https://www.biorxiv.org/content/10.1101/2022.07.21.501033v1.full)
 
 ## Problem statement
